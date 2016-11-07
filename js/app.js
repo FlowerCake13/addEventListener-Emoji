@@ -10,5 +10,5 @@
       document.getElementById("food").addEventListener("click", haf);
   function haf()  {
     var emojiS = ["🍏","🍎"];
-      document.getElementById("emptyf").innerHTML = emojiS [Math.floor(Math.random()*emojiS.length)];
+      document.getElementById("emptf").innerHTML = emojiS [Math.floor(Math.random()*emojiS.length)];
                    }
