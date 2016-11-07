@@ -3,11 +3,11 @@ body{
 	font-size: 20px;
 }
 
-#btn{
+#btn, #food{
 	height: 100px;
 	width: 150px;
 }
 
-#empty{
+#empty, #emptyf{
 	font-size: 100px;
 }
