@@ -14,3 +14,6 @@
                   ,"🍨","🍦","🍰","🎂","🍮","🍬","🍭","🍫","🍿","🍩","🍪"];
       document.getElementById("emptf").innerHTML = emojiS [Math.floor(Math.random()*emojiS.length)];
                    }
+
+
+  
